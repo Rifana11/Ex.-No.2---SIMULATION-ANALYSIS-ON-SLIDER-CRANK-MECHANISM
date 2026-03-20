@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No. 2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 04.03.26
 
@@ -33,9 +33,15 @@ Given Data
 ●	Crank angle θ = 45° from inner dead centre (IDC) 
  
 Angular velocity of crank: 
-                                             ω=2πN/60                                               ω=2π(300)/60                                                ω=31.42  rad/s 
+     ω=2πN/60    
+                                             
+  ω=2π(300)/60  
+                                             
+  ω=31.42  rad/s 
 Configuration Diagram: 
-                                                   O = crank center 
+                                                   
+                                                   
+  O = crank center 
  
 ●	OA = crank (150 mm) 
  
@@ -65,13 +71,18 @@ Intersection gives point b.
                                          VA=31.42×0.15 
                                          VA=4.71m/s 
 ANGULAR VELOCITY OF CONNECTING ROD: 
-                               VBA=ωAB×AB                               ωAB=VAB/BA 
+                               VBA=ωAB×AB                               
+                               ωAB=VAB/BA 
 From velocity diagram (standard solution): 
                                                        ωAB≈5.5  rad/s    
+                                                       
 Acceleration: 
-                            aA=(ω*ω)×OA                                          
-                            aA=(31.42*31.42)×0.15                                    
-                            aA   =148m/s2 
+
+ aA=(ω*ω)×OA        
+                           
+aA=(31.42*31.42)×0.15                                    
+
+aA   =148m/s2 
                             
 <img width="796" height="623" alt="Screenshot 2026-03-20 084309" src="https://github.com/user-attachments/assets/df8e79ca-63c9-4fad-a58e-df1573216d4b" />
 <img width="784" height="314" alt="Screenshot 2026-03-20 084351" src="https://github.com/user-attachments/assets/94c56ab0-2f34-4bac-8b7b-bb0c1973bd84" />
